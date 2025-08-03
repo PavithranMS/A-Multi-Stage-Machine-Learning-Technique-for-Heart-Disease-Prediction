@@ -1,1 +1,5 @@
-# A-Multi-Stage-Machine-Learning-Technique-for-Heart-Disease-Prediction with Cluster-Aware Classification
+# A Multi-Stage Machine Learning Technique for Heart Disease Prediction with Cluster-Aware Classification
+
+Conference Name : IEEE Global Conference on Emerging Technologies 2025 (GINOTECH-2025) 
+
+Full Paper Available in IEEE Xplore - [https://ieeexplore.ieee.org/document/11076721](url)
