@@ -2,5 +2,5 @@
 
 Conference Name : IEEE Global Conference on Emerging Technologies 2025 (GINOTECH-2025) 
 
-Full Paper Available in IEEE Xplore - https://ieeexplore.ieee.org/document/11076721
+Full Paper Available in IEEE Xplore - https://doi.org/10.1109/GINOTECH63460.2025.11076721
 
